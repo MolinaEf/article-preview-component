@@ -38,6 +38,7 @@
 .drawers{
     max-height: 13.2rem;
     object-fit: cover;
+    border-radius: 0.8rem 0.8rem 0 0;
 }
 .article-content{
     padding: 2.5rem 2.2rem 1.1rem 2.2rem;
@@ -140,6 +141,7 @@
     font-size: 0.8rem; 
     margin-top: auto;
     z-index: 2;
+    border-radius: 0 0 0.8rem 0.8rem;
 }
 
 
@@ -169,6 +171,7 @@
         max-height: none;
         min-height: 100%;
         max-width: 38%;
+        border-radius: 0.8rem 0 0 0.8rem;
     }
 
     .desktop-side-container{
